@@ -59,7 +59,7 @@ header .sale-text {
   gap: 32px;
 }
 
-.cart-wrapper button {
+.main-btn {
   display: flex;
   align-items: center;
   gap: 4px;
@@ -128,7 +128,7 @@ header .sale-text {
   margin-bottom: 24px;
 }
 
-.hero-content button {
+.main-btn {
   padding: 10px 20px;
   background-color: var(--main-color);
   border: none;
